@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISmu11F1",
+  "modelName": "i-i-s-mu11-f1",
+  "className": "F1",
+  "nameSpace": "IIS.mu11",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "F1E",
+      "modelName": "i-i-s-mu11-f1",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "F1L",
+      "modelName": "i-i-s-mu11-f1",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Mu11",
+  "applicationTitle": "Mu11",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mu11",
+      "caption": "mu11",
+      "title": "mu11",
+      "children": [
+        {
+          "link": "i-i-s-mu11-f1-l",
+          "menuName": null,
+          "caption": "F1",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

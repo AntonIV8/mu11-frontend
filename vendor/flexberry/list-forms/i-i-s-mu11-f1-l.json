@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mu11-f1-e",
+  "editForm": "i-i-s-mu11-f1-e",
+  "external": false,
+  "caption": "F1",
+  "name": "IISmu11F1L",
+  "className": "F1L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu11-f1",
+      "modelProjection": "F1L"
+    }
+  ]
+}
